@@ -1,0 +1,12 @@
+aut	2
+Caesar	1
+nihil	1
+aut	4
+Caesar	1
+nihil	1
+aut	6
+Caesar	1
+nihil	2
+de	1
+mortuis	1
+bene	1
